@@ -4,6 +4,7 @@ describe('getAuthority should be strong', () => {
   it('empty', () => {
     expect(getAuthority(null)).toEqual(['admin']); // default value
   });
+  // Authority Guest added
   it('empty', () => {
     expect(getAuthority(null)).toEqual(['guest']); // default value
   });
