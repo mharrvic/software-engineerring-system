@@ -5,6 +5,7 @@ English | [简体中文](./README.zh-CN.md) | [Русский](./README.ru-RU.md
 <div align="center">
 
 An out-of-box UI solution for enterprise applications as a React boilerplate.
+A project in Software Engineering
 
 [![CircleCI Status](https://circleci.com/gh/ant-design/ant-design-pro.svg?style=svg)](https://circleci.com/gh/ant-design/ant-design-pro/)
 [![Build status](https://ci.appveyor.com/api/projects/status/67fxu2by3ibvqtat/branch/master?svg=true)](https://ci.appveyor.com/project/afc163/ant-design-pro/branch/master)
