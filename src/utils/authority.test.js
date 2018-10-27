@@ -1,6 +1,7 @@
 import { getAuthority } from './authority';
 
 describe('getAuthority should be strong', () => {
+  // Admin Access Right
   it('empty', () => {
     expect(getAuthority(null)).toEqual(['admin']); // default value
   });
