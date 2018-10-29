@@ -658,7 +658,15 @@ class Analysis extends Component {
             </Card>
           </Col>
         </Row>
-
+        //added card
+        <Card
+          loading={loading}
+          className={styles.offlineCard}
+          bordered={true}
+          bodyStyle={{ padding: '0 0 32px 0' }}
+          style={{ marginTop: 32 }}
+        >
+        </Card>
         <Card
           loading={loading}
           className={styles.offlineCard}
