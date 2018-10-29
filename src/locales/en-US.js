@@ -23,6 +23,7 @@ export default {
   'form.optional': ' (optional) ',
   'form.submit': 'Submit',
   'form.save': 'Save',
+  'form.delete': 'Delete',
   'form.email.placeholder': 'Email',
   'form.password.placeholder': 'Password',
   'form.confirm-password.placeholder': 'Confirm password',
